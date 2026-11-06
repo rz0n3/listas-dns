@@ -1,0 +1,33 @@
+! --- Bloqueio Geral LG e Terceiros ---
+||lgtvcommon.com^
+||ueiwsp.com^
+||meethue.com^
+||wiselg.com^
+||lgeapi.com^
+||nextlgsdp.com^
+||us.nextlgsdp.com^
+||us.lgtvsdp.com^
+
+! --- Atualizações de Firmware (OTA / NSU / NGFTS) ---
+||aic-ngfts.lge.com^
+||aic-nsu.lge.com^
+||eic-ngfts.lge.com^
+||eic-nsu.lge.com^
+||kic-ngfts.lge.com^
+||kic-nsu.lge.com^
+||m-ngfts.lge.com^
+||ngfts.lge.com^
+||nsu.lge.com^
+||nsu2.lge.com^
+||nsu-rd.lge.com^
+||ota.lge.com^
+||otadownload.lge.com^
+||rdouta.lge.com^
+||snu.lge.com^
+||su.lge.com^
+||su-ssl.lge.com^
+
+! --- Telemetria e Serviços Online LG ---
+||aic.rdl.lgtvcommon.com^
+||aic.recommend.lgtvcommon.com^
+||lgtvonline.lge.com^
